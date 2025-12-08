@@ -16,6 +16,8 @@ Built with TensorFlow Lite and deployed using Streamlit, LeafGuard is lightweigh
 
 🌍 Aligned with UN Sustainable Development Goal #2: Zero Hunger by supporting sustainable agriculture
 
+🧠 Flask used for more efficient inertface
+
 🏗️ Tech Stack
 
 Python 3.11+
