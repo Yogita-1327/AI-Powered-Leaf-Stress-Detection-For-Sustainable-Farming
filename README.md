@@ -20,6 +20,7 @@ Built with TensorFlow Lite and deployed using Streamlit, LeafGuard is lightweigh
 🧠 Flask used for more efficient inertface
 
 🏗️ Tech Stack
+Python 3.11+
 
 Streamlit (Frontend Web App)
 
