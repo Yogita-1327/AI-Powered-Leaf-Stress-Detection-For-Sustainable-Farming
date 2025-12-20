@@ -2,7 +2,6 @@
 
 📌 Overview
 
-
 LeafGuard is an AI-powered web application that helps farmers and researchers detect stress conditions in plant leaves (such as disease, nutrient deficiency, or environmental stress) using deep learning.
 Built with TensorFlow Lite and deployed using Streamlit, LeafGuard is lightweight, fast, and beginner-friendly — making sustainable farming more accessible.
 
