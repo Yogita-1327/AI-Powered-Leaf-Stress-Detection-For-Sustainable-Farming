@@ -1,5 +1,4 @@
 🌿 LeafGuard: AI-Powered Leaf Stress Detection
-
 📌 Overview
 
 LeafGuard is an AI-powered web application that helps farmers and researchers detect stress conditions in plant leaves (such as disease, nutrient deficiency, or environmental stress) using deep learning.
